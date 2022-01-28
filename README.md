@@ -3,6 +3,7 @@
 ## Descripcion
 
 SuperHero-app es una aplicación para crear un equipo de superhéroes. Podras creas tu propio equipo de seis superheroes, repartidos entre tres heroes y tres villanos con sus estadisticas de poder, e informacion de personaje. Podras encontrar a tus superheroes desde la barra de busqueda, visualizarlos y agregarlos.
+Esta aplicacion consume una API con react
 
 ## Instalacion
 * Clona este repositorio: `git clone https://github.com/genaropass/superhero-app.git`
